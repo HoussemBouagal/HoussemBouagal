@@ -1,15 +1,20 @@
-Hi there! 👋
+# 👋 Hi there, I'm Houssem Bouagal!
 
-🔭 I’m currently working with Laravel, Django, AI model training, and Data Science.
+🔬 I'm currently working on **AI model training** and **Data Science** projects.
 
-👀 I’m passionate about Data Science, AI, and Web Development.
+💡 I'm passionate about **Machine Learning**, **Deep Learning**, and applying **Data Science** to real-world problems.
 
-🌱 I hold a Master’s degree in Computer Science.
+🎓 I hold a **Master’s degree in Computer Science**.
 
-💞️ 👯 I’m looking to collaborate on Laravel, Django, or AI projects.
+🤝 I’m looking to collaborate on **AI** and **Data Science** projects that make an impact.
 
-📫 How to reach me ...
+📫 You can reach me at: mouhamedhoussem813@gmail.com
+ 
+🔗 LinkedIn: [linkedin.com/in/houssem-bouagal](https://www.linkedin.com/in/houssem-eddine-bouagal-98025a297)
 
-😄 Pronouns: he/him.
+🌐 Portfolio: [houssembouagal.github.io/Portfolio](https://houssembouagal.github.io/Portfolio/)
 
-⚡ Fun fact: I love exploring new AI and Web technologies!
+😄 Pronouns: he/him
+
+⚡ Fun fact: I love exploring cutting-edge AI technologies and turning ideas into intelligent systems!
+
