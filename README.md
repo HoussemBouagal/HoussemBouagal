@@ -10,7 +10,7 @@
 
 📫 You can reach me at: mouhamedhoussem813@gmail.com
  
-🔗 LinkedIn: [linkedin.com/in/houssem-bouagal](https://www.linkedin.com/in/houssem-eddine-bouagal-98025a297)
+🔗 LinkedIn: [linkedin.com/in/houssem-eddine-bouagal](https://www.linkedin.com/in/houssem-eddine-bouagal-98025a297)
 
 🌐 Portfolio: [houssembouagal.github.io/Portfolio](https://houssembouagal.github.io/Portfolio/)
 
