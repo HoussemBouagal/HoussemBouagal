@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Houssem Bouagal!
+# 👋 Hi there, I'm Houssem Eddine Bouagal!
 
 🔬 I'm currently working on **AI model training** and **Data Science** projects.
 
