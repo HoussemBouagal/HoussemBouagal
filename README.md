@@ -12,8 +12,6 @@
  
 🔗 LinkedIn: [linkedin.com/in/houssem-eddine-bouagal](https://www.linkedin.com/in/houssem-eddine-bouagal-98025a297)
 
-🌐 Portfolio: [houssembouagal.github.io/Portfolio](https://houssembouagal.github.io/Portfolio/)
-
 😄 Pronouns: he/him
 
 ⚡ Fun fact: I love exploring cutting-edge AI technologies and turning ideas into intelligent systems!
