@@ -58,4 +58,3 @@ Strong background in **system design, microservices, and clean architecture**, w
 
 ---
 
-*Proudly created with GPRM ([https://gprm.itsvg.in](https://gprm.itsvg.in))
