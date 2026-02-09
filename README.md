@@ -51,6 +51,10 @@ Strong background in **system design, microservices, and clean architecture**, w
 ## 📊 GitHub Stats
 
 ![Houssem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HoussemBouagal\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=HoussemBouagal\&theme=dark\&hide_border=false)
+
+
+[![](https://visitcount.itsvg.in/api?id=HoussemBouagal\&icon=0\&color=0)](https://visitcount.itsvg.in)
 
 ---
 
