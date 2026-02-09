@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm **Houssem Eddine Bouagal**
 
-Software Engineer with hands-on experience in building scalable, production-ready software systems.  
-Experienced in **full-stack web development, RESTful APIs, cloud deployment, and AI integration (ML/DL)**.  
-background in **system design, microservices, and clean architecture**, with a focus on **performance, scalability, and real-world impact**.
+Software Engineer with hands-on experience in building scalable, production-ready software systems.
+Experienced in full-stack web development, RESTful APIs, cloud deployment, and AI integration (ML/DL).
+Background in system design, microservices, and clean architecture, with a focus on performance, scalability, and real-world impact.
 
 🤝 Open to collaborating on software engineering projects.
 
