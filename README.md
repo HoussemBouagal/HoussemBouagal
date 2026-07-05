@@ -3,17 +3,22 @@
 # 👋 Hi, I'm **Houssem Eddine Bouagal**
 
 Software Engineer with hands-on experience in building scalable, production-ready software systems.
+
 Experienced in full-stack web development, RESTful APIs, cloud deployment, and AI integration (ML/DL).
+
 Background in system design, microservices, and clean architecture, with a focus on performance, scalability, and real-world impact.
 
 🤝 Open to collaborating on software engineering projects.
 
 ---
 
-## 🌐 Connect with Me:
+# 🌐 Connect with Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/houssem.algrie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houssem-eddine-bouagal-98025a297) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mouhamedhoussem813@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/213660876991) [![Telegram](https://img.shields.io/badge/Telegram-%230068c1.svg?logo=telegram&logoColor=white)](https://t.me/+213660876991)
-
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/houssem.algrie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houssem-eddine-bouagal-98025a297)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mouhamedhoussem813@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/213660876991)
+[![Telegram](https://img.shields.io/badge/Telegram-%230068c1.svg?logo=telegram&logoColor=white)](https://t.me/+213660876991)
 
 ---
 
@@ -21,7 +26,7 @@ Background in system design, microservices, and clean architecture, with a focus
 
 ## 💻 Programming Languages
 
-<p>
+<p align="left">
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -34,7 +39,7 @@ Background in system design, microservices, and clean architecture, with a focus
 
 ## 🎨 Frontend
 
-<p>
+<p align="left">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -49,7 +54,7 @@ Background in system design, microservices, and clean architecture, with a focus
 
 ## ⚙️ Backend
 
-<p>
+<p align="left">
 
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -61,7 +66,7 @@ Background in system design, microservices, and clean architecture, with a focus
 
 ## 🗄️ Databases
 
-<p>
+<p align="left">
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -74,7 +79,7 @@ Background in system design, microservices, and clean architecture, with a focus
 
 ## ☁️ Cloud & DevOps
 
-<p>
+<p align="left">
 
 ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -86,7 +91,7 @@ Background in system design, microservices, and clean architecture, with a focus
 
 ## 🤖 Artificial Intelligence
 
-<p>
+<p align="left">
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -102,7 +107,7 @@ Background in system design, microservices, and clean architecture, with a focus
 
 ## 🔄 Version Control & CI/CD
 
-<p>
+<p align="left">
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
@@ -114,15 +119,18 @@ Background in system design, microservices, and clean architecture, with a focus
 
 ## ⚡ Scripting & Automation
 
-<p>
+<p align="left">
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 </p>
----
-## 📊 GitHub Stats
 
-![Houssem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HoussemBouagal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+---
+
+# 📊 GitHub Stats
+
+![Houssem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HoussemBouagal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=HoussemBouagal&theme=dark&hide_border=false)
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=HoussemBouagal&icon=0&color=0)
